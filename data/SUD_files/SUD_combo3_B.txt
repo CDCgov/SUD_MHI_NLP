@@ -1,0 +1,35 @@
+Alcohol,SUD_Alcohol
+Ethanol,SUD_Alcohol
+ETOH,SUD_Alcohol
+Cannabis,SUD_Cannabis
+Marijuana,SUD_Cannabis
+Marihuana,SUD_Cannabis
+Marijauna,SUD_Cannabis
+Weed,SUD_Cannabis
+Pot,SUD_Cannabis
+Sedative,SUD_Sedative
+Benzo,SUD_Sedative
+benzodiazepine,SUD_Sedative
+Barbit,SUD_Sedative
+barbiturate,SUD_Sedative
+barbituate,SUD_Sedative
+Alprazolam,SUD_Sedative
+Diazepam ,SUD_Sedative
+diazapam,SUD_Sedative
+Diaphenhydramine,SUD_Sedative
+Clonazepam ,SUD_Sedative
+Gabapentin,SUD_Sedative
+Citalopram ,SUD_Sedative
+Amitriptyline ,SUD_Sedative
+Xanax,SUD_Sedative
+Valium ,SUD_Sedative
+Benadryl,SUD_Sedative
+Klonopin,SUD_Sedative
+Neurontin,SUD_Sedative
+Celexa,SUD_Sedative
+Elavil,SUD_Sedative
+Inhalant,SUD_Inhalant
+Inhalat,SUD_Inhalant
+Glue,SUD_Inhalant
+Psychoactive,SUD_Other_Psychoactives
+Antidepressant,SUD_Other_Psychoactives

@@ -1,0 +1,34 @@
+[INPUT_SETTINGS]
+input_type = CSV
+cnxn_string = 
+execute_string = 
+csv_input_file = data/FY19_test_incsv.txt
+
+[TERMS]
+standalone_terms_path  = data/SUD_files/SUD_standalone.txt
+combination_1_A = data/SUD_files/SUD_combo1_A.txt
+combination_1_B = data/SUD_files/SUD_combo1_B.txt
+combination_2_A = data/SUD_files/SUD_combo2_A.txt
+combination_2_B = data/SUD_files/SUD_combo2_B.txt
+last_standalone = data/SUD_files/SUD_last_resort_standalone.txt
+last_combination_A = data/SUD_files/SUD_last_resort_A.txt
+last_combination_B = data/SUD_files/SUD_last_resort_B.txt
+negex_triggers_path = data/negex_triggers.txt
+
+
+[OUTPUT]
+results_file = data/SUD_files/FY19_SUD_test_out.txt
+logging_file = data/SUD_files/FY19_SUD_test_log.txt
+
+
+[SEARCH_CONFIG]
+col_to_search = LITERAL_TEXT
+output_columns = UNIQUE_ID, STATE
+upfront_val_inclusions = 
+upfront_val_exclusions = NOTE_TYPE, Note to Ignore
+upfront_string_exclusions = patient education
+NER_model = yourpath/en_core_web_sm/en_core_web_sm-3.0.0
+year_excluded = 2017
+custom_date_exclusion = 
+diagnosis = NOTE_TYPE, Discharge Diagnosis
+output_zeros = False

@@ -1,0 +1,77 @@
+Alcoholic,SUD_Alcohol
+Alcoholism,SUD_Alcohol
+alcohlism,SUD_Alcohol
+Alcohol Use Disoder,SUD_Alcohol
+banana bag,SUD_Alcohol
+Fetal alchohol syndrome,SUD_Alcohol
+Alcohol abuse,SUD_Alcohol
+alcoholics anonymous,SUD_Alcohol
+Alcohol Dependence,SUD_Alcohol
+Opioid Use Disorder,SUD_Opioid
+OUD,SUD_Opioid
+Heroin Addiction,SUD_Opioid
+PDMP,SUD_Opioid
+Opioid Abuse,SUD_Opioid
+Opioid Dependence,SUD_Opioid
+Medication Assisted Treatment,SUD_Opioid
+Suboxone,SUD_Opioid
+NEONATAL ABSTINENCE SYNDROME,SUD_Opioid
+neonatal withdrawal symptoms,SUD_Opioid
+Cannabis Use Disorder,SUD_Cannabis
+Marijuana Abuse,SUD_Cannabis
+Marijuana Dependence,SUD_Cannabis
+Weed Abuse,SUD_Cannabis
+Weed Dependence,SUD_Cannabis
+Cannabis Abuse,SUD_Cannabis
+Cannabis Dependence,SUD_Cannabis
+SHA use disorder,SUD_Sedative
+SHA withdrawal,SUD_Sedative
+Flumazenil,SUD_Sedative
+Romazicon,SUD_Sedative
+Carisoprodol,SUD_Sedative
+Soma,SUD_Sedative
+anxiolytic abuse,SUD_Sedative
+sedative abuse,SUD_Sedative
+Cocaine Use Disorder,SUD_Cocaine
+Crack Baby,SUD_Cocaine
+Cocaine Addiction,SUD_Cocaine
+cocaine abuse,SUD_Cocaine
+cocaine dependence,SUD_Cocaine
+Stimulant Use Disorder,SUD_Other_Stimulant
+Amphetamine Use Disorder,SUD_Other_Stimulant
+Methamphetamine Use Disorder,SUD_Other_Stimulant
+Other stimulant abuse,SUD_Other_Stimulant
+Other stimulant dependence,SUD_Other_Stimulant
+Psychoactive substance use disorder,SUD_Other_Psychoactives
+PSUD,SUD_Other_Psychoactives
+Hallucinogen Use Disorder,SUD_Hallucinogen
+Hallucinogen abuse,SUD_Hallucinogen
+Hallucinogen dependence,SUD_Hallucinogen
+Caused by chewing tobacco,SUD_Nicotine
+Caused by cigarettes,SUD_Nicotine
+Due to chewing tobacco,SUD_Nicotine
+Due to cigarettes,SUD_Nicotine
+Nicotine induced,SUD_Nicotine
+Nicotine-induced,SUD_Nicotine
+Sleep disorder caused by tobacco,SUD_Nicotine
+Smoker,SUD_Nicotine
+Tobacco induced,SUD_Nicotine
+Tobacco Use Disorder,SUD_Nicotine
+Tobacco-induced,SUD_Nicotine
+Tobacco-Use Disorder,SUD_Nicotine
+Maternal tobacco use ,SUD_Nicotine
+Tobacco use in pregnancy,SUD_Nicotine
+Chew tobacco,SUD_Nicotine
+Chews tobacco,SUD_Nicotine
+Chewing tobacco,SUD_Nicotine
+Chewed tobacco,SUD_Nicotine
+Inhalant Use Disorder,SUD_Inhalant
+Huffing,SUD_Inhalant
+Whippets,SUD_Inhalant
+Inhalant Abuse,SUD_Inhalant
+Inhalant Dependence,SUD_Inhalant
+Psychoactive Substance Use Disorder,SUD_Other_Psychoactives
+PSUD,SUD_Other_Psychoactives
+Never smoker,Nicotine_Exclusion
+Never a smoker,Nicotine_Exclusion
+Never smoked,Nicotine_Exclusion

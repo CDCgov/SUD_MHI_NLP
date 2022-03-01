@@ -1,0 +1,17 @@
+Chewing Tobacco,SUD_Nicotine
+Cigar*,SUD_Nicotine
+Dip,SUD_Nicotine
+E-cig*,SUD_Nicotine
+Hookah,SUD_Nicotine
+Nicotine,SUD_Nicotine
+Pipe,SUD_Nicotine
+Smoked,SUD_Nicotine
+Smokeless,SUD_Nicotine
+Smoking,SUD_Nicotine
+Snuff,SUD_Nicotine
+Snus,SUD_Nicotine
+Tobacco,SUD_Nicotine
+Vape,SUD_Nicotine
+Vaping,SUD_Nicotine
+Waterpipe,SUD_Nicotine
+Roll-your-own tobacco,SUD_Nicotine

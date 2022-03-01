@@ -1,0 +1,2 @@
+anxiety,ANXIETY_OTHER
+depression,DEPRESSION_OTHER

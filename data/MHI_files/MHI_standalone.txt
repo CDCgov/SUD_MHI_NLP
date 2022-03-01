@@ -1,0 +1,53 @@
+acute reaction to stress,ACUTE_STRESS_REACTION
+acute stress disorder,ACUTE_STRESS_REACTION
+Acute stress reaction,ACUTE_STRESS_REACTION
+GAD,ANXIETY_GENERAL
+Generalized anxiety disorder,ANXIETY_GENERAL
+OCD,ANXIETY_OCD
+obsessive-compulsive,ANXIETY_OCD
+obsessive compulsive,ANXIETY_OCD
+hoarding disorder,ANXIETY_OCD
+Excoriation (skin-picking) disorder,ANXIETY_OCD
+skin picking disorder,ANXIETY_OCD
+skin-picking disorder,ANXIETY_OCD
+obsessional thoughts and acts,ANXIETY_OCD
+Panic attack,ANXIETY_PANIC
+Panic disorder,ANXIETY_PANIC
+PTSD,ANXIETY_PTSD
+post traumatic stress,ANXIETY_PTSD
+post-traumatic stress,ANXIETY_PTSD
+"Anxiety disorder, unspecified",ANXIETY_UNSPECIFIED
+Anxiety disorder unspecified,ANXIETY_UNSPECIFIED
+unspecified anxiety disorder,ANXIETY_UNSPECIFIED
+"Major depressive disorder, recurrent",DEPRESSION_RECURRENT
+Major depressive disorder recurrent,DEPRESSION_RECURRENT
+"Major depressive disorder, single",DEPRESSION_SINGLE
+Major depressive disorder single,DEPRESSION_SINGLE
+recurrent depressive disorder,DEPRESSION_RECURRENT
+Premenstrual dysphoric disorder,DEPRESSION_SINGLE
+major depression,DEPRESSION_OTHER
+PMDD,DEPRESSION_SINGLE
+depressive episode,DEPRESSION_OTHER
+self harm,SELF_HARM
+self-harm,SELF_HARM
+anthrophobia,ANXIETY_SOCIAL
+social anxiety disorder,ANXIETY_SOCIAL
+social neurosis,ANXIETY_SOCIAL
+social phobia,ANXIETY_SOCIAL
+Suicide attempt,SUICIDE_ATTEMPT
+Suicidal ideation,SUICIDE_IDEATIONS
+Anxiety with depression,ANXIETY_OTHER
+Anxiety depression,ANXIETY_OTHER
+Anxiety associated w Depression,ANXIETY_OTHER
+Anxiety associated with Depression,ANXIETY_OTHER
+Anxiety and depressive disorder,ANXIETY_OTHER
+dysthymic disorder,DEPRESSION_OTHER
+anxiety and depression,ANXIETY_OTHER
+anxiety and depression,DEPRESSION_OTHER
+depression and anxiety,ANXIETY_OTHER
+depression and anxiety,DEPRESSION_OTHER
+ST depression,DEP_EXCLUSION
+ST segment depression,DEP_EXCLUSION
+bipolar,DEP_EXCLUSION
+schizophrenia,DEP_EXCLUSION
+manic,DEP_EXCLUSION

@@ -1,0 +1,9 @@
+Substance Use Disorder,SUD_Other_Psychoactives
+drug abuse,SUD_Other_Psychoactives
+drug addiction,SUD_Other_Psychoactives
+substance abuse,SUD_Other_Psychoactives
+substance addiction,SUD_Other_Psychoactives
+drug addict,SUD_Other_Psychoactives
+IVDA,SUD_Other_Psychoactives
+Intravenous Drug User,SUD_Other_Psychoactives
+Intravenous Drug Abuser,SUD_Other_Psychoactives

@@ -1,0 +1,5 @@
+Drug,SUD_Other_Psychoactives
+Substance,SUD_Other_Psychoactives
+IV drug,SUD_Other_Psychoactives
+Intravenous drug,SUD_Other_Psychoactives
+Polysubstance,SUD_Other_Psychoactives
