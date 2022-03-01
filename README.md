@@ -1,4 +1,4 @@
-# FY19_pcortf_nlp
+# SUD_MHI_NLP
 
 First release of FY19 NLP PCORTF code
 
@@ -77,9 +77,9 @@ Running this code requires Python >= 3.4.
 
 All packages necessary to run this code can be obtained by downloading or cloning this repository. Included modules and data:
 
-- [negex_adjusted.py](fy19_nlp_pcortf/negex_adjusted.py) (modified from original) 
-- [build_queries.py](fy19_nlp_pcortf/build_queries.py) 
-- [negation_triggers.txt](fy19_nlp_pcortf/data/negation_triggers.txt) 
+- [negex_adjusted.py](negex_adjusted.py) (modified from original) 
+- [build_queries.py](build_queries.py) 
+- [negation_triggers.txt](data/negation_triggers.txt) 
 - search terms used in the NCHS PCORTF algorithm and sample input and config files (all in [data](/data))
 
 
