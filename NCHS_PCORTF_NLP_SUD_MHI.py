@@ -257,6 +257,7 @@ def main_search(input_args):
 
 
     else:
+        import pyodbc     
         logging.info(f"Connecting to database with connection string {cnxn_string} and starting cursor selection ...")
         cnxn = pyodbc.connect(cnxn_string)
         cursor = cnxn.cursor()
