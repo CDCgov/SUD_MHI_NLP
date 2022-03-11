@@ -8,7 +8,7 @@ Git ReadMe
   
 December 20, 2021
 
-Author: Nikki Adams; oxf7@cdc.gov 
+Author: Nikki Adams; NAdams2@cdc.gov 
 
 This is the first release of the code used to analyze the clinical notes from the 2016 National Hospital Care Survey (NHCS) data for the fiscal year (FY) 2019 Office of the Secretary Patient-Centered Outcomes Research Trust Fund-funded project on the identification of patients with substance use disorders (SUD) and mental health issues (MHI) in hospitalizations and emergency department visits. The National Center for Health Statistics conducts NHCS which involves the collection of a participating hospital’s (UB)-04 administrative claims records or electronic health records (EHR) in a 12-month period. For a hospital to be eligible for NHCS, the hospital must be a non-federal, non-institutional hospital with 6 or more staffed inpatient beds. The FY 2019 project was a capstone to the FY 2018 project, which identified hospital encounters with opioid-involvement. In the complete algorithm, it was from these opioid-involved encounters that MHIs and SUDs were searched. This repository contains only the SUD and MHI search, not the opioid-involvement search, which is located here. The goal of this code is to flag MHI (mental health issue) and SUD (substance use disorder) mentions in clinical text, primarily those that rise to diagnosis-level phrasing. The code to flag opioid-involvement, SUD, and MHI in hospital encounters by medical codes from structured data is located here. 
 
