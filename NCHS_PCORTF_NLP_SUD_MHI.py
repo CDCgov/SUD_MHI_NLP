@@ -80,7 +80,7 @@ def search_plain_text(note_text, standalone_regex, tups, negrules,
             if diagnosis:
                 last_resort_standalone_regex = last_resort_dict["standalone"]
             else:
-                last_resort_standalone_regex = re.compile('|'.join([r'%s' % x for x in last_resort_dict["standalone"].pattern.split('|') if len(x.split())>1]))
+                last_resort_standalone_regex = re.compile('|'.join([r'%s' % x for x in last_resort_dict["standalone"].pattern.split('|') if len(x.split())>1]), re.IGNORECASE)
             if re.search(last_resort_standalone_regex, note_text):
                 last_search_match = True
         else:
